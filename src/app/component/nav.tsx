@@ -12,6 +12,7 @@ export default function Navbar(){
             <li><Link href="home">home</Link></li>
             <li><Link href="about">about</Link></li>
             <li><Link href="contact">contact</Link></li>
+            <li><Link href="error">error</Link></li>
         </ul>
         
         
